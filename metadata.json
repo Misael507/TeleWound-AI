@@ -1,0 +1,9 @@
+{
+  "name": "TeleWound AI Nexus",
+  "description": "Una plataforma híbrida integral para el tele-cuidado de heridas, integrando flujos de trabajo HL7/DICOM con diagnósticos avanzados de Gemini AI, validación clínica experta e interoperabilidad FHIR.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
